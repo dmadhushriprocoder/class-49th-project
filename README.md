@@ -1,1 +1,1 @@
-# class-49th-project
+# project-class49
